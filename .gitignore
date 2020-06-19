@@ -26,3 +26,8 @@ package.json
 /vendor/
 
 .fake_gopath_suffix
+
+/tmp/
+disco
+thor
+vrfkey
